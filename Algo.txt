@@ -1,3 +1,4 @@
-Locate Pizza website
-Look at Menu
-Choose Ingredinets
+1. Locate Pizza website
+2. Look at Menu
+3.Choose Ingredinets
+4.
