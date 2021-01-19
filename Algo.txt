@@ -4,3 +4,4 @@
 4. Compare prices
 5. Head to check out 
 6. Pick payment type
+7. get pizza
