@@ -2,3 +2,5 @@
 2. Look at Menu
 3.Choose Ingredinets
 4. Compare prices
+5. Head to check out 
+6. Pick payment type
